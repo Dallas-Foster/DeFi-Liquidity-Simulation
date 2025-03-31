@@ -7,6 +7,7 @@ The simulator consists of the following core components:
 Automated Market Maker (AMM): Implements a constant product market-making strategy (X * Y = K).
 
 Agents: Simulated participants including:
+
 **RandomTrader**: Trades randomly to simulate noise.
 
 **ArbitrageBot**: Exploits price discrepancies between the AMM and external market.
